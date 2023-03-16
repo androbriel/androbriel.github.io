@@ -1,5 +1,7 @@
 # Actividad 14 Mi WebPage
 
+Este es un Repositorio solo para para poder entender como funciona una pagina web en github
+
 
 ![](https://media.giphy.com/media/aI2hfQOnxm5mwh9edQ/giphy.gif)
 
